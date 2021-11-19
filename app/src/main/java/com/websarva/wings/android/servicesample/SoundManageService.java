@@ -17,7 +17,7 @@ import androidx.core.app.NotificationCompat;
 import androidx.core.app.NotificationManagerCompat;
 
 /**
- * サービスサンプル	
+ * サービスサンプル reg2021-11-19
  * サービスクラス
  */
 public class SoundManageService extends Service {
